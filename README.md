@@ -34,6 +34,15 @@
 
 <h2 align="center">My Github Activities</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haz-git&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haz_git&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haz-git&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api/wakatime?username=Haz_git&theme=algolia">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Haz-git&layout=compact&theme=algolia">
+</p>
+
+<p align = "center">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=Haz-git&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Haz-git&theme=algolia">
+</p> 
