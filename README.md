@@ -11,7 +11,7 @@
   I'm a M.S candidate studying microbiology and molecular biology at University of California, San Diego. Although some may think Biology and Computer Science are divergent paths, I find more similarities more often than not! I'm a passionate learner who's always willing to learn, explore, and tinker across all technology stacks. I love leveraging all the technologies I've learned to solve real-life problems.
 </p>  
 
-<h2 align="center">$print(tech.stack)</h2>
+<h2 align="center">My Tech Stack</h2>
 <p align="center">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
