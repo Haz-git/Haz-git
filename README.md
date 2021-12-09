@@ -44,5 +44,5 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Haz-git&theme=algolia">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Haz-git&bg_color=060E2C&line=01ACFC&color=35db99">
 </p> 
