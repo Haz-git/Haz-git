@@ -35,7 +35,7 @@
 <h2 align="center">My Github Activities</h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api/wakatime?username=Haz_git&theme=algolia">
+  <img  src = "https://github-readme-stats.vercel.app/api/wakatime?username=@Haz_git&theme=algolia">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Haz-git&layout=compact&theme=algolia">
 </p>
 
