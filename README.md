@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-
+<h2 align="center">My Github Activities</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haz-git&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haz_git&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haz-git&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
