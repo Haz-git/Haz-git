@@ -8,7 +8,7 @@
 </p>
 <h2 align="center">$ whoami</h2>
 <p align="center">
-  I'm a M.S candidate studying microbiology and molecular biology at University of California, San Diego. Although some may think Biology and Computer Science are divergent paths, I find more similarities more often than not! I'm a passionate learner who's always willing to learn, explore, and tinker across all technology stacks. I love leveraging all the technologies I've learned to solve real-life problems.
+  M.Sc graduate in Microbiology and Molecular Biology from UC San Diego 🧬 🔬. Now navigating the exciting world of Tech 💻. Although some may think Biology and Computer Science are divergent paths, I find more similarities more often than not! I'm a passionate learner who's always willing to learn, explore, and tinker across all technology stacks. I love leveraging all the technologies I've learned to solve real-life problems.
 </p>  
 
 <h2 align="center">My Tech Stack</h2>
